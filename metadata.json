@@ -1,0 +1,6 @@
+{
+  "name": "فوتبال آنالیتیکس پرو پلاس اصلی",
+  "description": "سیستم هوش مصنوعی آنالیز و پیش‌بینی مسابقات فوتبال با موتور شبیه‌سازی مونت کارلو و تحلیل‌های آماری پیشرفته",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
